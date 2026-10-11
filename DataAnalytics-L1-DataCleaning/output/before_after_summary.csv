@@ -1,0 +1,10 @@
+,Before cleaning,After cleaning,Change
+Rows,10000,9974,-26
+Columns,8,8,0
+Null cells,6826,460,-6366
+Columns containing nulls,7,1,-6
+ERROR / UNKNOWN placeholder strings,3256,0,-3256
+Cells labelled 'Unknown' (deliberate),0,7594,7594
+Duplicate rows,0,0,0
+Columns with the correct dtype,4 of 8,8 of 8,
+Rows with a missing or 'Unknown' value,6911,6203,-708
